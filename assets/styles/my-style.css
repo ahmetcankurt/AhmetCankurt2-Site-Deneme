@@ -1,0 +1,5 @@
+@media screen and (max-width:1200px) {
+    .sidebar{margin-bottom: 30px;}			
+}
+.gcaMainCardPoweredBy{display: none !important;}
+#gcaMainCardInnerChatBox{height: 64px !important;}
